@@ -4,20 +4,20 @@
     "autoCreateDB": "true",
     "allowInbox": "true",
     "autoClean": "false",
-    "BOTNAME": "Nextgen",
-    "PREFIX": "/",
+    "BOTNAME": "NelzyAssistant",
+    "PREFIX": "-",
     "version": "none",
     "commandDisabled": [
         "example.js"
     ],
     "eventDisabled": [],
     "ADMINBOT": [
-        "100088806220727",
-        "100088334332155",
-        "100090829542977",
-        "100017375410153"
+        "100071157053751",
+        "",
+        "",
+        ""
     ],
-    "OWNER": "100088806220727",
+    "OWNER": "100071157053751",
     "DATABASE": {
         "sqlite": {
             "storage": "data.sqlite"
